@@ -26,7 +26,6 @@
 
 ## Community
 
-- [GitHub](https://github.com/shadcn/ui)
 - [GitHub discussions for shadcn/ui](https://github.com/shadcn/ui/discussions)
 
 ## Libs and components:
@@ -37,9 +36,9 @@
 
 - [react-dnd-kit-tailwind-shadcn-ui](https://georgegriff.github.io/react-dnd-kit-tailwind-shadcn-ui/) - Drag and drop Accessible kanban board implementing using React, @dnd-kit, tailwind and shadcn/ui.
 
-- [shadcn/ui expansions](https://shadcnui-expansions.typeart.cc/) - shadcn/ui expansions collect lots of useful components which shadcn/ui does not have out of box. All the components are base on shadcn/ui. Just copy and paste. The component is yours.
+- [shadcn-expansions](https://shadcnui-expansions.typeart.cc/) - shadcn/ui expansions collect lots of useful components which shadcn/ui does not have out of box. All the components are base on shadcn/ui. Just copy and paste. The component is yours.
 
-- [Fancy Multi Select](https://craft.mxkaske.dev/post/fancy-multi-select) - The Multi Select Component is inspired by campsite.design's and cal.com's settings forms.
+- [fancy-multi-select](https://craft.mxkaske.dev/post/fancy-multi-select) - The Multi Select Component is inspired by campsite.design's and cal.com's settings forms.
 
 - [auto-form](https://github.com/vantezzen/auto-form) - A React component that automatically creates a shadcn/ui form based on a zod schema.
 
@@ -50,29 +49,36 @@
 ## Apps
 
 - [resume-gpt](https://github.com/nphivu414/resume-gpt) Resume GPT helps you create a perfect resume in seconds and land your dream job.
+
 - [shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI.
+
 - [thr](https://github.com/ishaan1013/thr) - A clone of Meta's new app using Next.js server components, Vercel Postgres, shadcn UI, Clerk, and Prisma.
-- [Motion Variants](https://github.com/chrisabdo/motionvariants) - A collection of handmade Framer Motion variants made for your next project.
+
+- [motion Variants](https://github.com/chrisabdo/motionvariants) - A collection of handmade Framer Motion variants made for your next project.
+
 - [memomate-notetaker](https://github.com/ZevaGuillo/memomate-notetaker) An app for easy management of notes and topics.
+
 - [gradient-picker](https://github.com/Illyism/gradient-picker) Fancy Gradient Picker, built with Shadcn UI, Radix UI and Tailwind CSS.
+
 - [openstatus](https://github.com/openstatushq/openstatus) The open-source status page.
+
 - [scribbly](https://github.com/subhamBharadwaz/scribbly) Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal.
 
 ## Ports
 
-- [Svelte](https://github.com/huntabyte/shadcn-svelte) - Svelte port of shadcn/ui.
+- [svelte](https://github.com/huntabyte/shadcn-svelte) - Svelte port of shadcn/ui.
 
-- [Vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn/ui
+- [vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn/ui.
 
-- [React Native](https://github.com/Mobilecn-UI/nativecn-ui) - React Native port of shadcn/ui
+- [react-native](https://github.com/Mobilecn-UI/nativecn-ui) - React Native port of shadcn/ui.
 
-- [Swift](https://github.com/Mobilecn-UI/swiftcn-ui) - Swift port of shadcn/ui
+- [swift](https://github.com/Mobilecn-UI/swiftcn-ui) - Swift port of shadcn/ui.
 
-- [Flutter](https://github.com/nank1ro/shadcn-ui) - Flutter port of shadcn/ui
+- [flutter](https://github.com/nank1ro/shadcn-ui) - Flutter port of shadcn/ui.
 
-- [Ruby](https://github.com/aviflombaum/shadcn-rails) - Ruby port of shadcn/ui
+- [ruby](https://github.com/aviflombaum/shadcn-rails) - Ruby port of shadcn/ui.
 
-- [Kotlin](https://github.com/dead8309/shadcn-kotlin) - Kotlin port of shadcn/ui
+- [kotlin](https://github.com/dead8309/shadcn-kotlin) - Kotlin port of shadcn/ui.
 
 ## Boilerplates
 
@@ -86,7 +92,7 @@
 
 ## Contributing
 
-Discover something fantastic, like a package, article, blog, video, or any other valuable resource? Feel free to contribute by sending a pull request! Simply adhere to our guidelines. Your participation is highly appreciated. Thank you!
+Discover something fantastic, like a package, article, blog, video, or any other valuable resource? Feel free to contribute by sending a pull request! Simply adhere to our guidelines. Your participation is highly appreciated. Thank you! ❤️
 
 ## Contributors
 
