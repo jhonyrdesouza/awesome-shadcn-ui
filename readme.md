@@ -4,9 +4,9 @@
   <h1>awesome-shadcn/ui</h1>
     A curated list of awesome things related to <a href='https://ui.shadcn.com/'>shadcn/ui</a>
     <br />
-    <a href="https://github.com/jhonyrdesouza/awesome-shadcn-ui/blob/master/.github/contributing">Make a contribution</a>
+    <a href="https://github.com/jhonyrdesouza/awesome-shadcn-ui/blob/master/.github/contributing.md">Make a contribution</a>
     ·
-    <a href="https://github.com/jhonyrdesouza/awesome-shadcn-ui/blob/master/.github/contributing">Suggestions</a>
+    <a href="https://github.com/jhonyrdesouza/awesome-shadcn-ui/blob/master/.github/contributing.md">Suggestions</a>
   </p>
     <p align="center">
     <img src='https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg' alt='awesome'>
