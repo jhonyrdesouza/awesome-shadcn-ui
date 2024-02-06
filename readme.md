@@ -30,10 +30,10 @@
 
 ## Libs and components:
 
-- [shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2) - shadcn/ui table component with server-side sorting, filtering, and pagination.
+- [shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2) - A shadcn/ui table component with server-side sorting, filtering, and pagination.
 - [shadcn-phone-input](https://shadcn-phone-input.vercel.app/) - Customizable phone input component with proper validation for any country.
 - [react-dnd-kit-tailwind-shadcn-ui](https://georgegriff.github.io/react-dnd-kit-tailwind-shadcn-ui/) - Drag and drop Accessible kanban board implementing using React, @dnd-kit, tailwind and shadcn/ui.
-- [shadcn-expansions](https://shadcnui-expansions.typeart.cc/) - shadcn/ui expansions collect lots of useful components which shadcn/ui does not have out of box. All the components are base on shadcn/ui. Just copy and paste. The component is yours.
+- [shadcn-expansions](https://shadcnui-expansions.typeart.cc/) - A shadcn/ui expansions collect lots of useful components which shadcn/ui does not have out of box. All the components are base on shadcn/ui. Just copy and paste. The component is yours.
 - [fancy-multi-select](https://craft.mxkaske.dev/post/fancy-multi-select) - The Multi Select Component is inspired by campsite.design's and cal.com's settings forms.
 - [auto-form](https://github.com/vantezzen/auto-form) - A React component that automatically creates a shadcn/ui form based on a zod schema.
 - [date-range-picker-for-shadcn](https://github.com/johnpolacek/date-range-picker-for-shadcn) - Includes multi-month views, text entry, preset ranges, responsive design and date range comparisons.
@@ -41,14 +41,13 @@
 
 ## Apps
 
-- [resume-gpt](https://github.com/nphivu414/resume-gpt) Resume GPT helps you create a perfect resume in seconds and land your dream job.
 - [shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI.
 - [thr](https://github.com/ishaan1013/thr) - A clone of Meta's new app using Next.js server components, Vercel Postgres, shadcn UI, Clerk, and Prisma.
 - [motion-variants](https://github.com/chrisabdo/motionvariants) - A collection of handmade Framer Motion variants made for your next project.
-- [memomate-notetaker](https://github.com/ZevaGuillo/memomate-notetaker) An app for easy management of notes and topics.
-- [gradient-picker](https://github.com/Illyism/gradient-picker) Fancy Gradient Picker, built with Shadcn UI, Radix UI and Tailwind CSS.
-- [open-status](https://github.com/openstatushq/openstatus) The open-source status page.
-- [scribbly](https://github.com/subhamBharadwaz/scribbly) Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal.
+- [memomate-notetaker](https://github.com/ZevaGuillo/memomate-notetaker) - An app for easy management of notes and topics.
+- [gradient-picker](https://github.com/Illyism/gradient-picker) - Fancy Gradient Picker, built with Shadcn UI, Radix UI and Tailwind CSS.
+- [open-status](https://github.com/openstatushq/openstatus) - The open-source status page.
+- [scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal.
 
 ## Ports
 
