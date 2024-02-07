@@ -38,6 +38,7 @@
 - [auto-form](https://github.com/vantezzen/auto-form) - A React component that automatically creates a shadcn/ui form based on a zod schema.
 - [date-range-picker-for-shadcn](https://github.com/johnpolacek/date-range-picker-for-shadcn) - Includes multi-month views, text entry, preset ranges, responsive design and date range comparisons.
 - [shadcn-tag-input](https://github.com/JaleelB/shadcn-tag-input) - A tag input component built with shadcn/ui.
+- [enhanced-buttton](https://enhanced-button.vercel.app/) - Easily expand the regular shadcn/ui-button component with new button styles, without the need of creating new additional button components.
 
 ## Apps
 
