@@ -49,6 +49,7 @@
 - [gradient-picker](https://github.com/Illyism/gradient-picker) - Fancy Gradient Picker, built with Shadcn UI, Radix UI and Tailwind CSS.
 - [open-status](https://github.com/openstatushq/openstatus) - The open-source status page.
 - [scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal.
+- [next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - An open-source SaaS starter built using Next.js 14, Prisma, Planetscale, Auth.js, Resend, React Email, shadcn/ui, Stripe and Server Actions.
 
 ## Ports
 
@@ -65,7 +66,9 @@
 - [taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js.
 - [turborepo-shadcn-ui-tailwindcss](https://github.com/henriqpohl/turborepo-shadcn-ui-tailwindcss) - Turborepo starter with shadcn/ui & Tailwind CSS pre-configured for shared ui components.
 - [design-system-template](https://github.com/arevalolance/design-system-template) - Turborepo + TailwindCSS + Storybook + shadcn/ui.
-- [mendable-nextjs-chatbot](https://github.com/mendableai/mendable-nextjs-chatbot) - Next.js Starter Template for building chatbots with Mendable.
+- [mendable-nextjs-chatbot](https://github.com/mendableai/mendable-nextjs-chatbot) - Next.js starter template for building chatbots with Mendable.
+- [next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin dashboard starter with Next.js 14 and shadcn/ui.
+
 
 ## Contributing
 
