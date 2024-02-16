@@ -30,15 +30,17 @@
 
 ## Libs and components:
 
-- [shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2) - A shadcn/ui table component with server-side sorting, filtering, and pagination.
-- [shadcn-phone-input](https://shadcn-phone-input.vercel.app/) - Customizable phone input component with proper validation for any country.
-- [react-dnd-kit-tailwind-shadcn-ui](https://georgegriff.github.io/react-dnd-kit-tailwind-shadcn-ui/) - Drag and drop Accessible kanban board implementing using React, @dnd-kit, tailwind and shadcn/ui.
-- [shadcn-expansions](https://shadcnui-expansions.typeart.cc/) - A shadcn/ui expansions collect lots of useful components which shadcn/ui does not have out of box. All the components are base on shadcn/ui. Just copy and paste. The component is yours.
-- [fancy-multi-select](https://craft.mxkaske.dev/post/fancy-multi-select) - The Multi Select Component is inspired by campsite.design's and cal.com's settings forms.
 - [auto-form](https://github.com/vantezzen/auto-form) - A React component that automatically creates a shadcn/ui form based on a zod schema.
 - [date-range-picker-for-shadcn](https://github.com/johnpolacek/date-range-picker-for-shadcn) - Includes multi-month views, text entry, preset ranges, responsive design and date range comparisons.
-- [shadcn-tag-input](https://github.com/JaleelB/shadcn-tag-input) - A tag input component built with shadcn/ui.
 - [enhanced-buttton](https://enhanced-button.vercel.app/) - Easily expand the regular shadcn/ui-button component with new button styles, without the need of creating new additional button components.
+- [fancy-multi-select](https://craft.mxkaske.dev/post/fancy-multi-select) - The Multi Select Component is inspired by campsite.design's and cal.com's settings forms.
+- [plate](https://github.com/udecode/plate) – A rich-text editor.
+- [shadcn-expansions](https://shadcnui-expansions.typeart.cc/) - A shadcn/ui expansions collect lots of useful components which shadcn/ui does not have out of box. All the components are base on shadcn/ui. Just copy and paste. The component is yours.
+- [shadcn-phone-input](https://shadcn-phone-input.vercel.app/) - Customizable phone input component with proper validation for any country.
+- [shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2) - A shadcn/ui table component with server-side sorting, filtering, and pagination.
+- [shadcn-tag-input](https://github.com/JaleelB/shadcn-tag-input) - A tag input component built with shadcn/ui.
+- [react-dnd-kit-tailwind-shadcn-ui](https://georgegriff.github.io/react-dnd-kit-tailwind-shadcn-ui/) - Drag and drop Accessible kanban board implementing using React, @dnd-kit, tailwind and shadcn/ui.
+
 
 ## Apps
 
