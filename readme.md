@@ -41,7 +41,6 @@
 - [shadcn-tag-input](https://github.com/JaleelB/shadcn-tag-input) - A tag input component built with shadcn/ui.
 - [react-dnd-kit-tailwind-shadcn-ui](https://georgegriff.github.io/react-dnd-kit-tailwind-shadcn-ui/) - Drag and drop Accessible kanban board implementing using React, @dnd-kit, tailwind and shadcn/ui.
 
-
 ## Apps
 
 - [shadcn-ui-theme-explorer](https://github.com/luisFilipePT/shadcn-ui-theme-explorer) - A theme explorer for shadcn UI.
