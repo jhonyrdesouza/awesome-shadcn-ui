@@ -40,6 +40,7 @@
 - [shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2) - A shadcn/ui table component with server-side sorting, filtering, and pagination.
 - [shadcn-tag-input](https://github.com/JaleelB/shadcn-tag-input) - A tag input component built with shadcn/ui.
 - [react-dnd-kit-tailwind-shadcn-ui](https://georgegriff.github.io/react-dnd-kit-tailwind-shadcn-ui/) - Drag and drop Accessible kanban board implementing using React, @dnd-kit, tailwind and shadcn/ui.
+- [shadcn-chat](https://github.com/jakobhoeg/shadcn-chat) - Customizable and re-usable chat component for you to use in your projects.
 
 ## Apps
 
