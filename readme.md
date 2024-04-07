@@ -43,6 +43,7 @@
 - [shadcn-chat](https://github.com/jakobhoeg/shadcn-chat) - Customizable and re-usable chat component for you to use in your projects.
 - [extends](https://github.com/lucioew28/extends) - Intended to be a collection of components built using Shadcn/ui.
 - [file-vault](https://github.com/ManishBisht777/file-vault) - File upload component built with shadcn/ui.
+- [neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - Collection of neobrutalism-styled Tailwind React and Shadcn UI components.
 
 
 ## Applications
